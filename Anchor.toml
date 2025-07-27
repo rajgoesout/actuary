@@ -7,6 +7,7 @@ skip-lint = false
 
 [programs.localnet]
 actuary = "6dktB5XDeCN2Gw91Ux8NJSS3L6b7htwBUhGkS7TLC4bJ"
+ramm = "EiiEQwTTXftYXysyZ2VnDomcUKGDMU2SMbSrEx3Zj2dJ"
 
 [registry]
 url = "https://api.apr.dev"
